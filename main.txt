@@ -1,9 +1,2 @@
-<<<<<<< HEAD
 This is first message > master
 changes This is first message > from f2 
-======
-
-
-
-this is 4th line from f2
->>>>>>> f2
